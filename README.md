@@ -39,8 +39,9 @@ Key features:
 - the rotary encoder is used to set the time, the time value is stored in the EEPROM of the Arduino, so at the next start the previous time value is restored
 - Button operation: 
     - single click: start/stop
-    - double click: enable/disable dipping (setting is stored in EEPROM)
-- Buzzer sound after timer expires 
+    - double click: enable/disable dipping (setting is stored in EEPROM), options: OFF, every 10 seconds, every 30 seconds
+- Buzzer sound after timer expires
+
 
 
 # References/Sources
